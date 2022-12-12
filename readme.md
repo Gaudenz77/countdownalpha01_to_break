@@ -2,15 +2,10 @@
 ---
 # Countdown Timer Project-to-break:<br>Create a count down timer like web-devs do!
 ### Readme besser (explain project/how to install/how to use(contribute/license)) banner logo title/badge/
----
-
-# How to fullfill assignment
-----
-
-#### My momentary knowledge and usage of Javascript itself led me to the decision, to try at least reach the target gola to try my best in imitating various templates and look how impolement found knwledge into my project. I dont see myself actually programming such coding in Javascript myself and therefor honestly declare my actions.
 ----
 ## Project Task / Assignment
-The Task was vreating a countdown-timer, using all our newly learned abilities, use our knowledge and tools to mak a timer that can be se, be started and stopped.
+Test Github by breaking the code and see how we can go to a point before breaking.
+<!-- The Task was vreating a countdown-timer, using all our newly learned abilities, use our knowledge and tools to mak a timer that can be se, be started and stopped. -->
 ----
 ## Usage
 
