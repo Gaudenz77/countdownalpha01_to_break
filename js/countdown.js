@@ -52,6 +52,7 @@ function updateCounter() {
   console.log('count =', count);
   count = count - 1; // kurzform count--;
   setDisplay(count);
+  
 
   let hours = Math.floor(count / 3600);
   let minutes = Math.floor((count % 3600) / 60);
