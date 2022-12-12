@@ -80,6 +80,11 @@ console.log(hours, minutes, seconds);
   
 }
 
+function sayHello() {
+  let myQuote = ("hello");
+  alert(myQuote);
+}
+
 
 
 
