@@ -7,7 +7,7 @@
 Test Github by breaking the code and see how we can go to a point before breaking.
 <!-- The Task was vreating a countdown-timer, using all our newly learned abilities, use our knowledge and tools to mak a timer that can be se, be started and stopped. -->
 ----
-# Usage
+# Usage sent from Feature01
 ## BREAK THE CODE<br>Thank you for your time.
 
 * go to [Github](https://github.com/Gaudenz77/countdownalpha01)
