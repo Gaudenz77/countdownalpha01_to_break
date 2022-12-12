@@ -1,0 +1,76 @@
+/* my layout */
+/* @font-face {
+  font-family: 'Computerfont';
+  src: url('Computerfont.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+} */
+
+body {
+  background-image: url("/assets/img/wallpaperflare.com_wallpaper.jpg");
+  background-size: cover;
+  font-weight: normal;
+  font-style: normal;}
+
+h2 {
+ /*  font-size: 5rem;
+  color: #00B612;
+  text-align: center; */
+  font-size: 80px;
+  font-style: ;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00B612, 0 0 40px #00B612, 0 0 50px #00B612, 0 0 60px #00B612, 0 0 70px #00B612;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #51ff0d, 0 0 40px #51ff0d, 0 0 50px #51ff0d, 0 0 60px #51ff0d, 0 0 70px #51ff0d, 0 0 80px #51ff0d;
+  }
+}
+
+
+#counterField { 
+
+ 
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+  color: #ffffff  ;
+  font-size: 5rem;
+  font-weight: bold;
+  font-size: ;
+  text-align: center;
+
+
+
+}
+.btn {
+  border: 4px solid;
+  font-size: 20px;
+  color: #ffae00;
+  
+}
+
+#btn2 {
+  color:rgb(253, 39, 1);
+  align-content: center;
+}
+
+.blockOne {
+  font-size: 20px;
+  font-weight: bold ;
+  color:greenyellow;
+}
+
+
+
+
+
+
